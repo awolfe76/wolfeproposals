@@ -1,0 +1,6 @@
+title: Wolfe Proposals
+
+#build config
+server: true
+auto: true
+markdown: rdiscount 
